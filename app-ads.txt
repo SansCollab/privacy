@@ -1,2 +1,2 @@
 chartboost.com, 6890644fa53ce9808710ee88, DIRECT
-inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 9c64dd6843eb4628b3d194e30c516003, DIRECT, 83e75a7ae333ca9d
